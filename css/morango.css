@@ -1,0 +1,88 @@
+body{
+    margin: 0%;
+    background-color: #fb696967;
+    background-image: url(../images/banana.png), url(../images/banana2.png);
+    background-size: 30%, 20%;
+    background-position: 60% 30%, 30% 90%;
+    font-family: Georgia, 'Times New Roman', Times, serif, 'Arial Narrow', Arial, sans-serif;
+}
+
+#div1{
+    background-color: #fcb3ac;
+}
+
+#div1 > div.imagem > button{
+    color: #631010;
+    border-color: #ad2828;
+    background-color: #ffffffd7;
+}
+
+#div1 > div.texto > h1{
+    color: #ffffffb6;
+}
+
+#div1 > div.texto> button{
+    color: #631010;
+    border-color: #ad2828;
+}
+
+#div1 > div.texto> button:hover{
+    background-color:#f89f9f;
+}
+
+#div2{
+    background-color: #ffffff;
+    color: #917878;
+}
+
+#div2 > div.imagem{
+    background-color: #f89f9f;
+}
+
+#div2 > div.texto > h2{
+    color: #631010;
+}
+
+#div3{
+    background-color: #fcb3ac;
+    color: #631010;
+}
+
+#div3 > div.texto > h2{
+    color: #3b0909;
+}
+
+#div4{
+    background-color: #ffffff;
+}
+
+#div4 > div.texto{
+    background-color: #ffffff;
+    box-shadow: 0px 0px 30px #eeeeee;
+}
+
+#div4 > div.texto > h2{
+    color: #631010;
+}
+
+#div4 > div.texto > ul > li{
+    color: #631010;
+}
+
+#div5{
+    background-color: #fcb3ac;
+}
+
+#div5 > div.texto{
+    color: #631010;
+}
+
+#div5 > div.texto > ul > li{
+    color: #631010;
+}
+
+#div5 > div.texto > h2{
+    color: #3b0909;
+}
+
+
